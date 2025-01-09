@@ -1,4 +1,5 @@
 Author: Ethan Nanavati
+
 Last Edited: 1/9/2025
 
 This project proposes an optimal allocation of stocks in a portfolio and evaluates its performance. 
