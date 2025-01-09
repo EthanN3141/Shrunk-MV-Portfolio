@@ -1,3 +1,5 @@
+Project: Shrunk MV Portfolio
+
 Author: Ethan Nanavati
 
 Last Edited: 1/9/2025
