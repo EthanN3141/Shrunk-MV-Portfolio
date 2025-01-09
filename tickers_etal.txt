@@ -1,0 +1,503 @@
+1	AAPL	Apple Inc.	3,670.73B	242.84	-0.08%	391.04B
+2	NVDA	NVIDIA Corporation	3,488.36B	142.44	-1.81%	113.27B
+3	MSFT	Microsoft Corporation	3,297.89B	443.57	0.21%	254.19B
+4	AMZN	Amazon.com, Inc.	2,387.22B	227.03	2.94%	620.13B
+5	GOOGL	Alphabet Inc.	2,138.63B	174.71	1.20%	339.86B
+6	GOOG	Alphabet Inc.	2,122.53B	176.49	1.25%	339.86B
+7	META	Meta Platforms, Inc.	1,574.70B	623.77	2.44%	156.23B
+8	TSLA	Tesla, Inc.	1,249.42B	389.22	5.34%	97.15B
+9	BRK.B	Berkshire Hathaway Inc.	1,013.95B	470.34	-0.05%	369.89B
+10	AVGO	Broadcom Inc.	838.51B	179.53	5.31%	46.82B
+11	WMT	Walmart Inc.	769.26B	95.70	0.42%	673.82B
+12	LLY	Eli Lilly and Company	744.40B	826.71	0.13%	40.86B
+13	JPM	JPMorgan Chase & Co.	696.40B	247.36	0.77%	162.15B
+14	V	Visa Inc.	609.50B	311.01	0.62%	35.93B
+15	ORCL	Oracle Corporation	531.19B	191.69	2.93%	53.82B
+16	UNH	UnitedHealth Group Incorporated	505.81B	549.62	-5.07%	393.90B
+17	XOM	Exxon Mobil Corporation	499.15B	113.57	-1.05%	343.82B
+18	MA	Mastercard Incorporated	485.14B	528.57	0.72%	27.23B
+19	COST	Costco Wholesale Corporation	439.80B	992.61	1.05%	254.45B
+20	HD	The Home Depot, Inc.	428.51B	431.37	1.13%	154.60B
+21	PG	The Procter & Gamble Company	409.35B	173.82	-1.26%	83.91B
+22	NFLX	Netflix, Inc.	399.56B	934.74	1.84%	37.59B
+23	JNJ	Johnson & Johnson	359.48B	149.31	-0.14%	87.70B
+24	BAC	Bank of America Corporation	358.71B	46.75	0.02%	94.63B
+25	CRM	Salesforce, Inc.	346.42B	361.99	0.17%	37.19B
+26	ABBV	AbbVie Inc.	311.35B	176.19	0.01%	55.53B
+27	TMUS	T-Mobile US, Inc.	282.90B	243.78	-0.07%	80.01B
+28	CVX	Chevron Corporation	279.00B	155.25	-2.56%	191.69B
+29	KO	The Coca-Cola Company	269.37B	62.53	-0.62%	46.37B
+30	MRK	Merck & Co., Inc.	260.78B	103.09	-0.44%	63.17B
+31	WFC	Wells Fargo & Company	247.48B	74.33	0.91%	77.88B
+32	ADBE	Adobe Inc.	243.41B	552.96	2.74%	20.95B
+33	CSCO	Cisco Systems, Inc.	238.53B	59.89	-0.22%	52.98B
+34	NOW	ServiceNow, Inc.	231.97B	1,124.34	0.06%	10.46B
+35	BX	Blackstone Inc.	228.44B	187.00	-0.11%	11.14B
+36	ACN	Accenture plc	226.64B	362.70	1.28%	64.90B
+37	AMD	Advanced Micro Devices, Inc.	224.90B	138.59	-1.96%	24.30B
+38	IBM	International Business Machines Corporation	220.10B	238.04	1.40%	62.58B
+39	PEP	PepsiCo, Inc.	219.00B	157.79	-0.85%	91.92B
+40	MCD	McDonald's Corporation	214.25B	298.98	-0.16%	25.94B
+41	AXP	American Express Company	214.14B	303.99	1.15%	59.24B
+42	LIN	Linde plc	214.00B	449.44	0.19%	33.03B
+43	DIS	The Walt Disney Company	211.39B	116.73	0.20%	91.36B
+44	MS	Morgan Stanley	209.37B	129.96	-0.28%	58.28B
+45	PM	Philip Morris International Inc.	203.00B	130.56	-1.46%	37.22B
+46	TMO	Thermo Fisher Scientific Inc.	202.48B	529.36	1.63%	42.37B
+47	ABT	Abbott Laboratories	200.50B	115.60	0.01%	41.22B
+48	GS	The Goldman Sachs Group, Inc.	197.42B	599.68	0.48%	49.39B
+49	ISRG	Intuitive Surgical, Inc.	196.04B	550.41	0.50%	7.87B
+50	CAT	Caterpillar Inc.	190.72B	395.03	0.01%	65.66B
+51	GE	General Electric Company	190.03B	175.58	1.54%	69.95B
+52	INTU	Intuit Inc.	181.03B	646.47	-0.34%	16.59B
+53	VZ	Verizon Communications Inc.	178.36B	42.37	-0.42%	134.24B
+54	QCOM	QUALCOMM Incorporated	177.22B	159.51	-0.55%	38.96B
+55	TXN	Texas Instruments Incorporated	176.15B	193.10	0.06%	15.71B
+56	BKNG	Booking Holdings Inc.	175.42B	5,300.34	0.40%	23.05B
+57	PLTR	Palantir Technologies Inc.	173.90B	76.34	6.22%	2.65B
+58	T	AT&T Inc.	171.35B	23.88	0.21%	122.06B
+59	DHR	Danaher Corporation	166.21B	230.12	0.99%	23.74B
+60	CMCSA	Comcast Corporation	165.12B	43.15	0.84%	123.07B
+61	BLK	BlackRock, Inc.	161.52B	1,042.87	-0.18%	19.36B
+62	SPGI	S&P Global Inc.	160.18B	516.77	0.56%	13.77B
+63	RTX	RTX Corporation	157.05B	117.99	-0.45%	79.04B
+64	NEE	NextEra Energy, Inc.	154.72B	75.24	-1.26%	26.25B
+65	LOW	Lowe's Companies, Inc.	154.39B	273.43	1.24%	83.72B
+66	SCHW	The Charles Schwab Corporation	149.14B	81.47	-0.42%	18.74B
+67	PGR	The Progressive Corporation	149.12B	254.56	-2.58%	71.96B
+68	HON	Honeywell International Inc.	147.20B	226.38	0.04%	37.85B
+69	SYK	Stryker Corporation	146.78B	385.02	0.67%	21.97B
+70	ETN	Eaton Corporation plc	146.71B	371.22	0.05%	24.61B
+71	AMGN	Amgen Inc.	146.52B	272.58	-0.64%	32.53B
+72	PFE	Pfizer Inc.	145.81B	25.73	0.12%	59.38B
+73	AMAT	Applied Materials, Inc.	142.64B	173.02	0.58%	27.18B
+74	TJX	The TJX Companies, Inc.	141.75B	126.09	0.14%	56.42B
+75	UNP	Union Pacific Corporation	141.60B	233.57	-0.45%	24.29B
+76	KKR	KKR & Co. Inc.	140.35B	158.01	0.62%	27.82B
+77	UBER	Uber Technologies, Inc.	139.31B	66.16	1.43%	41.96B
+78	C	Citigroup Inc.	136.45B	72.15	-0.11%	69.31B
+79	ANET	Arista Networks, Inc.	136.37B	108.25	1.33%	6.61B
+80	COP	ConocoPhillips	133.52B	103.22	-1.17%	56.92B
+81	PANW	Palo Alto Networks, Inc.	133.18B	405.90	0.71%	8.29B
+82	BSX	Boston Scientific Corporation	132.75B	90.07	-0.51%	15.91B
+83	ADP	Automatic Data Processing, Inc.	124.10B	304.56	0.91%	19.52B
+84	LMT	Lockheed Martin Corporation	121.61B	513.03	-0.86%	71.30B
+85	DE	Deere & Company	121.48B	444.00	-0.92%	51.66B
+86	BMY	Bristol-Myers Squibb Company	120.43B	59.38	0.92%	47.44B
+87	VRTX	Vertex Pharmaceuticals Incorporated	119.00B	462.10	0.47%	10.63B
+88	FI	Fiserv, Inc.	117.93B	207.28	1.61%	20.12B
+89	NKE	NIKE, Inc.	117.43B	78.89	0.39%	50.01B
+90	BA	The Boeing Company	115.01B	153.93	-1.75%	73.29B
+91	GILD	Gilead Sciences, Inc.	114.82B	92.13	-1.35%	28.30B
+92	CB	Chubb Limited	114.21B	283.32	-1.15%	54.70B
+93	SBUX	Starbucks Corporation	113.50B	100.11	0.89%	36.18B
+94	MU	Micron Technology, Inc.	112.17B	101.17	0.30%	25.11B
+95	MMC	Marsh & McLennan Companies, Inc.	110.58B	225.16	-1.36%	23.95B
+96	ADI	Analog Devices, Inc.	108.29B	218.20	1.70%	9.43B
+97	MDT	Medtronic plc	107.72B	84.01	-0.15%	33.00B
+98	UPS	United Parcel Service, Inc.	107.19B	125.61	-1.55%	90.69B
+99	PLD	Prologis, Inc.	105.50B	112.00	-1.57%	8.24B
+100	LRCX	Lam Research Corporation	98.55B	76.59	1.83%	15.59B
+101	MO	Altria Group, Inc.	97.15B	57.32	0.72%	20.36B
+102	AMT	American Tower Corporation	96.78B	207.10	-0.98%	11.17B
+103	SHW	The Sherwin-Williams Company	96.62B	384.96	-0.07%	23.05B
+104	GEV	GE Vernova Inc.	95.52B	346.51	-0.47%	34.42B
+105	EQIX	Equinix, Inc.	95.04B	985.00	1.15%	8.15B
+106	SO	The Southern Company	92.92B	84.81	-1.60%	26.43B
+107	TT	Trane Technologies plc	92.75B	412.18	-0.49%	19.39B
+108	INTC	Intel Corporation	90.23B	20.92	0.58%	54.25B
+109	CTAS	Cintas Corporation	90.22B	223.71	0.22%	9.76B
+110	PYPL	PayPal Holdings, Inc.	90.11B	89.88	0.94%	31.46B
+111	CRWD	CrowdStrike Holdings, Inc.	90.06B	365.65	0.22%	3.74B
+112	MCO	Moody's Corporation	89.67B	494.76	0.73%	6.90B
+113	PH	Parker-Hannifin Corporation	89.61B	696.16	0.21%	19.99B
+114	ICE	Intercontinental Exchange, Inc.	89.53B	155.93	-0.28%	9.16B
+115	APH	Amphenol Corporation	89.47B	74.21	-0.24%	14.23B
+116	CMG	Chipotle Mexican Grill, Inc.	89.18B	65.40	0.28%	10.98B
+117	WM	Waste Management, Inc.	89.18B	222.19	-0.50%	21.39B
+118	ELV	Elevance Health, Inc.	88.63B	382.14	-2.76%	174.02B
+119	CI	The Cigna Group	88.40B	317.81	-1.49%	229.75B
+120	KLAC	KLA Corporation	86.72B	648.34	0.89%	10.26B
+121	DUK	Duke Energy Corporation	86.60B	112.10	-1.68%	29.75B
+122	DELL	Dell Technologies Inc.	86.46B	123.40	-1.34%	93.95B
+123	CME	CME Group Inc.	86.26B	239.38	-2.70%	6.03B
+124	ABNB	Airbnb, Inc.	85.54B	136.92	0.44%	10.84B
+125	CDNS	Cadence Design Systems, Inc.	84.34B	307.51	1.22%	4.35B
+126	MDLZ	Mondelez International, Inc.	84.06B	62.86	-0.60%	36.15B
+127	REGN	Regeneron Pharmaceuticals, Inc.	83.70B	778.00	1.32%	13.85B
+128	PNC	The PNC Financial Services Group, Inc.	82.78B	208.63	-0.10%	20.48B
+129	MSI	Motorola Solutions, Inc.	81.88B	489.96	-1.01%	10.66B
+130	WELL	Welltower Inc.	81.80B	131.37	-0.94%	7.56B
+131	AON	Aon plc	81.75B	378.00	-0.46%	14.93B
+132	USB	U.S. Bancorp	81.40B	52.18	0.12%	24.90B
+133	MAR	Marriott International, Inc.	81.31B	292.59	0.04%	6.57B
+134	HCA	HCA Healthcare, Inc.	80.99B	319.75	-0.09%	69.62B
+135	ITW	Illinois Tool Works Inc.	80.77B	273.53	-0.63%	15.95B
+136	ZTS	Zoetis Inc.	79.61B	176.46	0.97%	9.15B
+137	SNPS	Synopsys, Inc.	79.46B	517.28	0.39%	6.13B
+138	CEG	Constellation Energy Corporation	79.33B	253.63	-0.96%	23.98B
+139	CL	Colgate-Palmolive Company	76.99B	94.23	-0.91%	20.11B
+140	MCK	McKesson Corporation	76.61B	603.53	-0.66%	330.19B
+141	FTNT	Fortinet, Inc.	76.04B	99.21	0.76%	5.71B
+142	EMR	Emerson Electric Co.	75.01B	130.98	-1.63%	17.49B
+143	GD	General Dynamics Corporation	74.62B	271.80	-1.22%	46.05B
+144	ORLY	O'Reilly Automotive, Inc.	72.61B	1,257.78	1.86%	16.44B
+145	MMM	3M Company	72.49B	133.11	-0.17%	32.64B
+146	TDG	TransDigm Group Incorporated	71.93B	1,279.21	-1.06%	7.94B
+147	EOG	EOG Resources, Inc.	71.89B	127.81	-1.70%	23.86B
+148	COF	Capital One Financial Corporation	71.71B	187.96	1.29%	26.50B
+149	APD	Air Products and Chemicals, Inc.	71.19B	320.11	-0.58%	12.10B
+150	ECL	Ecolab Inc.	70.89B	250.34	0.95%	15.67B
+151	CVS	CVS Health Corporation	69.58B	55.29	-2.76%	367.25B
+152	RCL	Royal Caribbean Cruises Ltd.	69.39B	258.09	2.77%	16.06B
+153	WMB	The Williams Companies, Inc.	69.30B	56.85	-0.54%	10.37B
+154	SPG	Simon Property Group, Inc.	69.03B	183.84	1.08%	5.91B
+155	NOC	Northrop Grumman Corporation	69.01B	473.65	-1.23%	40.99B
+156	FDX	FedEx Corporation	68.58B	280.68	0.45%	87.59B
+157	RSG	Republic Services, Inc.	67.85B	216.68	0.56%	15.82B
+158	CSX	CSX Corporation	66.43B	34.45	-0.49%	14.68B
+159	ADSK	Autodesk, Inc.	66.11B	307.71	0.83%	5.96B
+160	CARR	Carrier Global Corporation	66.10B	73.67	-0.43%	24.80B
+161	DLR	Digital Realty Trust, Inc.	65.15B	192.69	0.84%	5.37B
+162	AJG	Arthur J. Gallagher & Co.	65.11B	296.71	-2.07%	10.67B
+163	CHTR	Charter Communications, Inc.	64.21B	403.06	-0.27%	54.87B
+164	OKE	ONEOK, Inc.	63.68B	109.00	-1.02%	19.93B
+165	BDX	Becton, Dickinson and Company	63.61B	220.02	-1.00%	20.18B
+166	HLT	Hilton Worldwide Holdings Inc.	63.01B	258.46	1.20%	4.70B
+167	TFC	Truist Financial Corporation	62.74B	47.26	0.19%	14.50B
+168	KMI	Kinder Morgan, Inc.	61.69B	27.77	-0.72%	15.15B
+169	PCAR	PACCAR Inc	60.76B	115.88	-1.48%	34.83B
+170	TGT	Target Corporation	60.66B	132.39	2.49%	107.57B
+171	FCX	Freeport-McMoRan Inc.	60.45B	42.07	-1.68%	25.64B
+172	CPRT	Copart, Inc.	59.82B	62.08	0.27%	4.36B
+173	AFL	Aflac Incorporated	59.61B	107.31	-0.41%	17.30B
+174	TRV	The Travelers Companies, Inc.	59.29B	261.15	-0.80%	45.34B
+175	ROP	Roper Technologies, Inc.	59.10B	551.20	-1.20%	6.78B
+176	MET	MetLife, Inc.	59.01B	85.22	-0.77%	71.34B
+177	NSC	Norfolk Southern Corporation	59.00B	260.78	-1.22%	12.17B
+178	GM	General Motors Company	58.73B	53.41	0.26%	182.72B
+179	PSA	Public Storage	58.65B	334.00	0.40%	4.70B
+180	BK	The Bank of New York Mellon Corporation	58.54B	80.51	-1.20%	17.80B
+181	SLB	Schlumberger Limited	57.84B	40.96	-2.52%	36.00B
+182	FICO	Fair Isaac Corporation	57.75B	2,371.83	0.20%	1.72B
+183	GWW	W.W. Grainger, Inc.	57.72B	1,185.16	-0.29%	16.93B
+184	SRE	Sempra	56.75B	89.60	-1.47%	12.92B
+185	URI	United Rentals, Inc.	56.36B	858.92	0.46%	14.98B
+186	AZO	AutoZone, Inc.	55.94B	3,309.44	3.74%	18.49B
+187	JCI	Johnson Controls International plc	55.85B	84.34	1.50%	22.95B
+188	NXPI	NXP Semiconductors N.V.	55.57B	218.66	0.77%	12.93B
+189	AMP	Ameriprise Financial, Inc.	54.48B	561.55	-0.65%	17.45B
+190	VST	Vistra Corp.	54.47B	160.09	-0.49%	16.27B
+191	ALL	The Allstate Corporation	53.92B	203.64	-0.29%	62.43B
+192	PSX	Phillips 66	53.14B	128.68	-0.89%	147.74B
+193	AXON	Axon Enterprise, Inc.	52.44B	687.69	-0.30%	1.94B
+194	CMI	Cummins Inc.	52.07B	379.60	0.27%	34.20B
+195	ROST	Ross Stores, Inc.	51.91B	156.48	-0.08%	21.24B
+196	PAYX	Paychex, Inc.	51.42B	142.86	0.32%	5.31B
+197	AEP	American Electric Power Company, Inc.	51.05B	95.85	-1.64%	19.60B
+198	DHI	D.R. Horton, Inc.	50.91B	158.51	-0.73%	36.80B
+199	MNST	Monster Beverage Corporation	50.83B	52.27	-1.56%	7.41B
+200	O	Realty Income Corporation	49.31B	56.17	0.20%	5.01B
+201	PWR	Quanta Services, Inc.	49.08B	332.47	-0.75%	22.90B
+202	FANG	Diamondback Energy, Inc.	48.71B	166.83	-3.39%	9.16B
+203	LULU	Lululemon Athletica Inc.	48.66B	399.60	15.89%	10.18B
+204	MPC	Marathon Petroleum Corporation	48.51B	150.94	0.56%	142.67B
+205	MSCI	MSCI Inc.	48.37B	617.18	1.19%	2.80B
+206	HWM	Howmet Aerospace Inc.	48.06B	118.31	-1.47%	7.27B
+207	AIG	American International Group, Inc.	47.13B	75.56	-0.76%	45.30B
+208	D	Dominion Energy, Inc.	47.08B	56.05	-1.51%	14.59B
+209	COR	Cencora, Inc.	47.05B	243.41	-0.37%	293.96B
+210	NDAQ	Nasdaq, Inc.	46.64B	81.14	0.14%	7.02B
+211	NEM	Newmont Corporation	46.60B	41.11	0.10%	16.99B
+212	FAST	Fastenal Company	46.43B	81.05	-0.87%	7.48B
+213	FIS	Fidelity National Information Services, Inc.	45.94B	85.34	-0.18%	10.03B
+214	TEL	TE Connectivity plc	45.59B	152.40	-0.02%	15.85B
+215	PRU	Prudential Financial, Inc.	45.06B	126.56	-0.57%	72.97B
+216	DFS	Discover Financial Services	45.00B	179.22	1.08%	11.69B
+217	KMB	Kimberly-Clark Corporation	44.93B	134.73	-1.61%	20.10B
+218	PEG	Public Service Enterprise Group Incorporated	44.84B	90.00	-1.66%	10.43B
+219	OXY	Occidental Petroleum Corporation	44.61B	47.54	-1.94%	27.14B
+220	LHX	L3Harris Technologies, Inc.	44.50B	234.64	-1.47%	21.14B
+221	KDP	Keurig Dr Pepper Inc.	44.38B	32.72	-0.79%	15.15B
+222	LEN	Lennar Corporation	44.33B	163.45	-0.93%	36.46B
+223	AME	AMETEK, Inc.	44.30B	191.54	-1.10%	6.91B
+224	CCI	Crown Castle Inc.	44.26B	101.85	-1.42%	6.59B
+225	EA	Electronic Arts Inc.	43.80B	167.01	0.84%	7.41B
+226	KVUE	Kenvue Inc.	43.79B	22.84	-1.25%	15.46B
+227	HES	Hess Corporation	43.46B	141.53	-2.21%	12.46B
+228	PCG	PG&E Corporation	43.45B	20.33	-0.29%	24.83B
+229	STZ	Constellation Brands, Inc.	43.39B	239.00	-0.21%	10.19B
+230	ODFL	Old Dominion Freight Line, Inc.	43.34B	203.00	0.01%	5.92B
+231	KR	The Kroger Co.	42.85B	59.23	-2.44%	149.88B
+232	GLW	Corning Incorporated	42.43B	49.56	-0.40%	12.61B
+233	TRGP	Targa Resources Corp.	42.38B	194.34	-2.01%	16.22B
+234	EW	Edwards Lifesciences Corporation	42.19B	71.53	-1.24%	6.31B
+235	GRMN	Garmin Ltd.	41.97B	218.58	0.92%	5.96B
+236	F	Ford Motor Company	41.77B	10.51	0.67%	182.74B
+237	VLO	Valero Energy Corporation	41.64B	131.52	-1.15%	128.73B
+238	CBRE	CBRE Group, Inc.	41.47B	137.88	1.07%	34.31B
+239	DAL	Delta Air Lines, Inc.	41.37B	64.53	-1.89%	60.31B
+240	IR	Ingersoll Rand Inc.	41.22B	102.28	-0.66%	7.16B
+241	CTVA	Corteva, Inc.	40.89B	59.49	-2.12%	16.64B
+242	BKR	Baker Hughes Company	40.88B	41.31	-2.82%	27.30B
+243	VRSK	Verisk Analytics, Inc.	40.54B	287.06	-0.64%	2.82B
+244	CTSH	Cognizant Technology Solutions Corporation	40.23B	81.15	0.51%	19.41B
+245	A	Agilent Technologies, Inc.	40.09B	140.58	1.97%	6.51B
+246	XEL	Xcel Energy Inc.	40.05B	69.74	-1.58%	13.76B
+247	IT	Gartner, Inc.	39.91B	517.37	0.15%	6.14B
+248	OTIS	Otis Worldwide Corporation	39.87B	99.80	0.69%	14.21B
+249	SYY	Sysco Corporation	39.66B	80.73	-1.27%	79.71B
+250	LVS	Las Vegas Sands Corp.	39.14B	53.99	0.28%	11.32B
+251	YUM	Yum! Brands, Inc.	38.41B	137.63	-0.36%	7.22B
+252	EXC	Exelon Corporation	38.03B	37.85	-0.34%	22.92B
+253	VMC	Vulcan Materials Company	37.88B	286.86	-0.27%	7.40B
+254	KHC	The Kraft Heinz Company	37.25B	30.81	-0.32%	26.13B
+255	GEHC	GE HealthCare Technologies Inc.	37.12B	81.24	-0.40%	19.56B
+256	IQV	IQVIA Holdings Inc.	36.78B	202.63	1.35%	15.32B
+257	ACGL	Arch Capital Group Ltd.	36.66B	97.83	-0.67%	16.87B
+258	GIS	General Mills, Inc.	36.12B	65.06	-0.75%	19.80B
+259	EXR	Extra Space Storage Inc.	36.08B	163.54	-0.06%	3.31B
+260	WAB	Westinghouse Air Brake Technologies Corporation	35.98B	205.41	1.22%	10.33B
+261	IDXX	IDEXX Laboratories, Inc.	35.68B	435.69	1.92%	3.84B
+262	MLM	Martin Marietta Materials, Inc.	35.52B	581.18	-0.21%	6.51B
+263	RMD	ResMed Inc.	35.43B	241.41	0.84%	4.81B
+264	HSY	The Hershey Company	35.35B	174.70	0.11%	10.97B
+265	IRM	Iron Mountain Incorporated	35.26B	120.16	1.51%	5.99B
+266	MTB	M&T Bank Corporation	35.05B	211.26	-0.55%	8.50B
+267	HPQ	HP Inc.	34.89B	36.20	0.08%	53.56B
+268	HIG	The Hartford Financial Services Group, Inc.	34.65B	119.54	-1.39%	26.08B
+269	DD	DuPont de Nemours, Inc.	34.62B	82.82	1.32%	12.19B
+270	CCL	Carnival Corporation & plc	34.57B	26.61	0.60%	24.48B
+271	HUM	Humana Inc.	33.92B	281.73	-0.47%	115.01B
+272	NUE	Nucor Corporation	33.48B	142.57	-2.06%	31.36B
+273	VICI	VICI Properties Inc.	33.36B	31.65	-	3.81B
+274	ROK	Rockwell Automation, Inc.	33.35B	295.42	-0.57%	8.26B
+275	RJF	Raymond James Financial, Inc.	33.34B	163.40	-1.29%	12.80B
+276	TTWO	Take-Two Interactive Software, Inc.	33.32B	189.71	-0.17%	5.46B
+277	EFX	Equifax Inc.	33.07B	266.82	2.32%	5.59B
+278	UAL	United Airlines Holdings, Inc.	32.98B	100.28	-2.11%	55.99B
+279	ED	Consolidated Edison, Inc.	32.85B	94.82	-1.74%	15.03B
+280	EIX	Edison International	32.50B	83.95	-1.14%	17.32B
+281	ETR	Entergy Corporation	32.50B	151.56	-1.41%	11.86B
+282	WTW	Willis Towers Watson Public Limited Company	32.49B	322.57	-2.25%	9.81B
+283	AVB	AvalonBay Communities, Inc.	32.18B	226.55	0.07%	2.93B
+284	MCHP	Microchip Technology Incorporated	31.84B	59.29	1.79%	5.50B
+285	CSGP	CoStar Group, Inc.	31.70B	77.32	0.38%	2.67B
+286	FITB	Fifth Third Bancorp	31.66B	47.21	-0.23%	8.06B
+287	LYV	Live Nation Entertainment, Inc.	31.54B	136.76	1.55%	23.32B
+288	BRO	Brown & Brown, Inc.	31.22B	109.18	-1.24%	4.56B
+289	HPE	Hewlett Packard Enterprise Company	31.06B	23.95	10.62%	30.13B
+290	TPL	Texas Pacific Land Corporation	30.75B	1,338.44	-0.61%	686.70M
+291	WEC	WEC Energy Group, Inc.	30.71B	97.09	-0.64%	8.53B
+292	XYL	Xylem Inc.	30.70B	126.37	0.11%	8.42B
+293	EBAY	eBay Inc.	30.47B	63.62	-	10.27B
+294	DXCM	DexCom, Inc.	30.36B	77.72	-1.52%	3.95B
+295	DECK	Deckers Outdoor Corporation	30.32B	199.55	-0.68%	4.66B
+296	ANSS	ANSYS, Inc.	30.20B	345.30	0.26%	2.47B
+297	TSCO	Tractor Supply Company	30.18B	282.46	-	14.77B
+298	GPN	Global Payments Inc.	29.99B	117.83	1.71%	10.02B
+299	CAH	Cardinal Health, Inc.	29.71B	122.76	-0.07%	224.45B
+300	KEYS	Keysight Technologies, Inc.	29.64B	171.73	1.24%	4.98B
+301	DOW	Dow Inc.	29.50B	41.99	-0.47%	43.18B
+302	PPG	PPG Industries, Inc.	29.10B	125.57	0.06%	18.03B
+303	GDDY	GoDaddy Inc.	29.00B	206.56	-0.95%	4.48B
+304	STT	State Street Corporation	28.85B	98.41	-0.19%	12.55B
+305	EQR	Equity Residential	28.83B	73.75	0.50%	2.94B
+306	MPWR	Monolithic Power Systems, Inc.	28.76B	589.68	3.03%	2.04B
+307	CNC	Centene Corporation	28.66B	56.76	-2.05%	146.20B
+308	EL	The Estée Lauder Companies Inc.	28.47B	79.32	1.47%	15.45B
+309	ON	ON Semiconductor Corporation	28.32B	66.52	1.19%	7.38B
+310	SW	Smurfit Westrock Plc	28.29B	54.61	-0.29%	16.43B
+311	K	Kellanova	27.83B	80.74	-0.04%	12.80B
+312	DOV	Dover Corporation	27.64B	201.46	-0.16%	8.47B
+313	BR	Broadridge Financial Solutions, Inc.	27.52B	235.43	-0.20%	6.50B
+314	TROW	T. Rowe Price Group, Inc.	27.51B	123.83	-0.69%	6.91B
+315	NVR	NVR, Inc.	27.41B	8,946.33	-0.10%	10.28B
+316	FTV	Fortive Corporation	27.37B	78.89	-0.32%	6.20B
+317	TYL	Tyler Technologies, Inc.	26.67B	623.15	-1.20%	2.08B
+318	NTAP	NetApp, Inc.	26.66B	131.11	1.80%	6.47B
+319	MTD	Mettler-Toledo International Inc.	26.55B	1,257.92	0.80%	3.76B
+320	SYF	Synchrony Financial	26.44B	67.92	1.49%	9.01B
+321	VLTO	Veralto Corporation	26.35B	106.53	1.18%	5.14B
+322	CHD	Church & Dwight Co., Inc.	26.27B	107.21	-1.79%	6.05B
+323	WBD	Warner Bros. Discovery, Inc.	26.15B	10.66	-0.19%	39.58B
+324	VTR	Ventas, Inc.	26.07B	61.65	-0.77%	4.80B
+325	PHM	PulteGroup, Inc.	26.01B	126.82	-0.82%	17.32B
+326	EQT	EQT Corporation	25.85B	43.33	-2.52%	4.62B
+327	AWK	American Water Works Company, Inc.	25.80B	132.37	0.20%	4.52B
+328	SMCI	Super Micro Computer, Inc.	25.72B	43.93	6.78%	14.94B
+329	HBAN	Huntington Bancshares Incorporated	25.58B	17.61	-0.51%	6.69B
+330	CPAY	Corpay, Inc.	25.50B	365.76	-0.50%	3.88B
+331	HAL	Halliburton Company	25.28B	28.78	-4.13%	23.07B
+332	DTE	DTE Energy Company	25.18B	121.57	-0.69%	12.42B
+333	LYB	LyondellBasell Industries N.V.	24.81B	76.39	-1.32%	40.73B
+334	PPL	PPL Corporation	24.80B	33.60	-1.44%	8.28B
+335	HUBB	Hubbell Incorporated	24.79B	461.97	-1.10%	5.64B
+336	ADM	Archer-Daniels-Midland Company	24.61B	51.42	-1.65%	87.01B
+337	WDC	Western Digital Corporation	24.57B	71.07	-1.44%	14.35B
+338	AEE	Ameren Corporation	24.50B	91.79	-0.53%	7.06B
+339	EXPE	Expedia Group, Inc.	24.48B	190.72	-0.15%	13.39B
+340	CINF	Cincinnati Financial Corporation	24.39B	156.03	-0.72%	12.16B
+341	PTC	PTC Inc.	24.14B	200.92	0.03%	2.30B
+342	CDW	CDW Corporation	24.00B	180.06	0.99%	20.83B
+343	WRB	W. R. Berkley Corporation	23.99B	62.95	-1.04%	13.19B
+344	ROL	Rollins, Inc.	23.93B	49.42	1.17%	3.31B
+345	RF	Regions Financial Corporation	23.87B	26.26	-0.11%	6.56B
+346	SBAC	SBA Communications Corporation	23.70B	220.38	-0.54%	2.66B
+347	FE	FirstEnergy Corp.	23.61B	40.97	-0.90%	13.26B
+348	WST	West Pharmaceutical Services, Inc.	23.36B	322.49	1.35%	2.88B
+349	BIIB	Biogen Inc.	22.99B	157.78	-0.93%	9.61B
+350	DVN	Devon Energy Corporation	22.98B	34.99	-2.70%	14.53B
+351	WAT	Waters Corporation	22.80B	384.05	0.71%	2.91B
+352	IFF	International Flavors & Fragrances Inc.	22.74B	88.92	-0.09%	11.42B
+353	WY	Weyerhaeuser Company	22.73B	31.29	1.07%	7.19B
+354	TSN	Tyson Foods, Inc.	22.29B	62.64	-1.66%	53.31B
+355	TDY	Teledyne Technologies Incorporated	22.07B	473.55	-0.67%	5.59B
+356	ATO	Atmos Energy Corporation	22.06B	141.96	-0.76%	4.17B
+357	ES	Eversource Energy	21.90B	59.78	-3.02%	11.62B
+358	LDOS	Leidos Holdings, Inc.	21.77B	163.15	-0.37%	16.28B
+359	PKG	Packaging Corporation of America	21.66B	242.86	-0.61%	8.18B
+360	ERIE	Erie Indemnity Company	21.54B	411.87	-2.95%	3.69B
+361	ZBH	Zimmer Biomet Holdings, Inc.	21.50B	108.03	-1.04%	7.60B
+362	FOXA	Fox Corporation	21.47B	47.00	0.75%	14.34B
+363	NTRS	Northern Trust Corporation	21.39B	107.92	-1.16%	7.86B
+364	STE	STERIS plc	21.31B	215.89	-0.71%	5.33B
+365	CBOE	Cboe Global Markets, Inc.	21.28B	203.24	-2.55%	3.96B
+366	ZBRA	Zebra Technologies Corporation	21.11B	409.32	1.07%	4.66B
+367	BF.B	Brown-Forman Corporation	20.99B	44.41	-1.65%	4.08B
+368	STLD	Steel Dynamics, Inc.	20.84B	136.90	-1.30%	17.90B
+369	STX	Seagate Technology Holdings plc	20.84B	98.51	0.34%	7.27B
+370	MKC	McCormick & Company, Incorporated	20.80B	77.50	-0.82%	6.68B
+371	FSLR	First Solar, Inc.	20.79B	194.19	-1.89%	3.85B
+372	FOX	Fox Corporation	20.74B	44.64	0.88%	14.34B
+373	CFG	Citizens Financial Group, Inc.	20.73B	47.03	0.56%	7.12B
+374	CLX	The Clorox Company	20.67B	166.97	-1.63%	7.47B
+375	CNP	CenterPoint Energy, Inc.	20.63B	31.66	-1.03%	8.56B
+376	INVH	Invitation Homes Inc.	20.58B	33.49	-0.27%	2.55B
+377	LUV	Southwest Airlines Co.	20.50B	34.18	-1.89%	27.38B
+378	BLDR	Builders FirstSource, Inc.	20.23B	175.82	-0.04%	16.73B
+379	OMC	Omnicom Group Inc.	20.18B	103.42	0.27%	15.43B
+380	NRG	NRG Energy, Inc.	20.11B	99.26	-1.99%	28.12B
+381	CMS	CMS Energy Corporation	20.07B	67.17	-0.31%	7.48B
+382	ESS	Essex Property Trust, Inc.	19.99B	300.10	0.14%	1.75B
+383	DRI	Darden Restaurants, Inc.	19.95B	169.75	-0.83%	11.42B
+384	ULTA	Ulta Beauty, Inc.	19.86B	428.17	8.99%	11.36B
+385	IP	International Paper Company	19.73B	56.78	0.12%	18.64B
+386	COO	The Cooper Companies, Inc.	19.66B	98.70	-4.39%	3.90B
+387	LH	Labcorp Holdings Inc.	19.45B	232.57	-0.99%	12.71B
+388	PFG	Principal Financial Group, Inc.	19.30B	84.40	0.78%	14.07B
+389	TER	Teradyne, Inc.	19.30B	118.51	4.21%	2.74B
+390	GEN	Gen Digital Inc.	19.19B	31.15	-0.32%	3.86B
+391	MAA	Mid-America Apartment Communities, Inc.	19.07B	158.94	-0.16%	2.18B
+392	BBY	Best Buy Co., Inc.	18.93B	88.17	-1.82%	42.23B
+393	SNA	Snap-on Incorporated	18.79B	357.77	-0.99%	5.10B
+394	L	Loews Corporation	18.75B	86.08	0.16%	17.22B
+395	KEY	KeyCorp	18.71B	18.87	0.80%	4.85B
+396	PODD	Insulet Corporation	18.62B	265.47	-0.79%	1.98B
+397	VRSN	VeriSign, Inc.	18.37B	191.14	1.15%	1.54B
+398	CTRA	Coterra Energy Inc.	18.36B	24.93	-2.84%	5.50B
+399	TRMB	Trimble Inc.	18.28B	74.86	-0.72%	3.63B
+400	JBHT	J.B. Hunt Transport Services, Inc.	18.25B	180.99	-0.47%	12.24B
+401	FDS	FactSet Research Systems Inc.	18.23B	479.97	0.33%	2.20B
+402	ARE	Alexandria Real Estate Equities, Inc.	18.15B	103.85	-1.50%	3.09B
+403	DG	Dollar General Corporation	17.94B	81.59	2.50%	39.18B
+404	PNR	Pentair plc	17.86B	108.11	0.05%	4.09B
+405	HRL	Hormel Foods Corporation	17.83B	32.47	-1.19%	11.92B
+406	DGX	Quest Diagnostics Incorporated	17.56B	157.35	-0.74%	9.54B
+407	HOLX	Hologic, Inc.	17.50B	75.34	-0.87%	3.99B
+408	MAS	Masco Corporation	17.48B	81.01	0.77%	7.88B
+409	IEX	IDEX Corporation	17.39B	229.71	0.55%	3.19B
+410	ALGN	Align Technology, Inc.	17.35B	232.35	1.99%	3.96B
+411	NWS	News Corporation	17.32B	32.30	-0.34%	10.16B
+412	NI	NiSource Inc.	17.30B	37.06	-0.59%	5.29B
+413	GPC	Genuine Parts Company	17.16B	123.42	-0.16%	23.30B
+414	MRNA	Moderna, Inc.	17.10B	44.44	3.49%	5.08B
+415	J	Jacobs Solutions Inc.	17.09B	137.83	0.07%	11.50B
+416	BALL	Ball Corporation	17.04B	57.11	-0.76%	13.79B
+417	KIM	Kimco Realty Corporation	17.01B	25.19	0.36%	1.96B
+418	MOH	Molina Healthcare, Inc.	16.87B	294.99	-1.81%	37.54B
+419	UDR	UDR, Inc.	16.71B	44.84	0.25%	1.68B
+420	EXPD	Expeditors International of Washington, Inc.	16.70B	119.28	-0.97%	9.92B
+421	NWSA	News Corporation	16.68B	29.35	-0.58%	10.16B
+422	AVY	Avery Dennison Corporation	16.27B	202.50	-0.39%	8.68B
+423	BAX	Baxter International Inc.	16.24B	31.80	-0.31%	15.06B
+424	EG	Everest Group, Ltd.	15.96B	371.40	-0.88%	16.44B
+425	DPZ	Domino's Pizza, Inc.	15.87B	459.59	-1.25%	4.67B
+426	LNT	Alliant Energy Corporation	15.67B	61.06	-0.78%	3.97B
+427	DLTR	Dollar Tree, Inc.	15.45B	71.87	-0.95%	31.22B
+428	CF	CF Industries Holdings, Inc.	15.39B	88.44	-1.04%	5.98B
+429	TXT	Textron Inc.	15.33B	82.66	-0.54%	13.98B
+430	JBL	Jabil Inc.	15.31B	135.64	-0.10%	28.88B
+431	DOC	Healthpeak Properties, Inc.	15.25B	21.38	-0.51%	2.56B
+432	VTRS	Viatris Inc.	15.18B	12.72	-1.32%	15.05B
+433	FFIV	F5, Inc.	15.07B	257.14	0.04%	2.82B
+434	AKAM	Akamai Technologies, Inc.	14.73B	98.06	0.68%	3.97B
+435	AMCR	Amcor plc	14.66B	10.18	-0.59%	13.55B
+436	INCY	Incyte Corporation	14.63B	75.92	1.33%	4.08B
+437	NDSN	Nordson Corporation	14.55B	254.40	-0.07%	2.66B
+438	TPR	Tapestry, Inc.	14.51B	62.25	-1.53%	6.67B
+439	EVRG	Evergy, Inc.	14.48B	62.96	-0.57%	5.78B
+440	RL	Ralph Lauren Corporation	14.33B	230.74	-1.05%	6.74B
+441	POOL	Pool Corporation	14.19B	372.93	-0.38%	5.33B
+442	RVTY	Revvity, Inc.	14.17B	116.46	1.19%	2.72B
+443	BXP	BXP, Inc.	14.17B	80.34	1.40%	3.34B
+444	SWKS	Skyworks Solutions, Inc.	14.05B	87.87	1.68%	4.18B
+445	EPAM	EPAM Systems, Inc.	13.92B	245.45	2.11%	4.64B
+446	REG	Regency Centers Corporation	13.50B	74.13	-0.24%	1.49B
+447	KMX	CarMax, Inc.	13.36B	86.23	1.97%	27.68B
+448	APTV	Aptiv PLC	13.32B	56.67	-0.42%	19.73B
+449	PAYC	Paycom Software, Inc.	13.22B	236.48	2.01%	1.82B
+450	CPT	Camden Property Trust	13.20B	121.90	0.35%	1.56B
+451	HST	Host Hotels & Resorts, Inc.	13.14B	18.80	-	5.59B
+452	DVA	DaVita Inc.	13.14B	160.25	-0.69%	12.67B
+453	SWK	Stanley Black & Decker, Inc.	13.02B	84.46	-0.55%	15.38B
+454	CAG	Conagra Brands, Inc.	13.00B	27.24	-2.08%	11.94B
+455	UHS	Universal Health Services, Inc.	12.81B	194.22	-0.93%	15.42B
+456	CPB	The Campbell's Company	12.74B	42.73	0.23%	9.89B
+457	JKHY	Jack Henry & Associates, Inc.	12.62B	173.01	-0.35%	2.25B
+458	TAP	Molson Coors Beverage Company	12.59B	61.13	0.28%	11.68B
+459	CHRW	C.H. Robinson Worldwide, Inc.	12.46B	105.43	-0.11%	17.76B
+460	SJM	The J. M. Smucker Company	12.39B	116.46	-0.18%	8.83B
+461	DAY	Dayforce Inc.	12.39B	78.56	1.75%	1.69B
+462	ALB	Albemarle Corporation	12.34B	104.96	3.82%	6.50B
+463	ALLE	Allegion plc	12.21B	140.49	0.12%	3.72B
+464	NCLH	Norwegian Cruise Line Holdings Ltd.	12.16B	27.65	0.11%	9.36B
+465	JNPR	Juniper Networks, Inc.	12.09B	36.52	-0.71%	5.03B
+466	SOLV	Solventum Corporation	12.09B	69.96	0.56%	8.22B
+467	TECH	Bio-Techne Corporation	11.84B	74.51	0.84%	1.17B
+468	BG	Bunge Global SA	11.73B	84.00	-2.55%	54.50B
+469	EMN	Eastman Chemical Company	11.71B	101.07	-0.43%	9.34B
+470	AIZ	Assurant, Inc.	11.50B	224.22	-0.51%	11.76B
+471	BEN	Franklin Resources, Inc.	11.48B	21.92	-2.14%	8.48B
+472	CTLT	Catalent, Inc.	11.22B	61.83	-0.47%	4.42B
+473	LW	Lamb Weston Holdings, Inc.	11.06B	77.53	-0.21%	6.46B
+474	MGM	MGM Resorts International	10.92B	36.66	-0.49%	17.22B
+475	IPG	The Interpublic Group of Companies, Inc.	10.90B	29.26	-0.75%	9.34B
+476	GNRC	Generac Holdings Inc.	10.66B	179.22	-0.42%	4.12B
+477	AOS	A. O. Smith Corporation	10.53B	72.61	0.40%	3.89B
+478	PNW	Pinnacle West Capital Corporation	10.41B	91.59	-0.93%	5.02B
+479	WYNN	Wynn Resorts, Limited	10.27B	94.37	-0.03%	7.13B
+480	LKQ	LKQ Corporation	10.11B	38.89	-2.09%	14.50B
+481	CRL	Charles River Laboratories International, Inc.	9.81B	191.81	0.14%	4.06B
+482	FRT	Federal Realty Investment Trust	9.75B	113.89	0.25%	1.19B
+483	ENPH	Enphase Energy, Inc.	9.67B	71.56	1.73%	1.25B
+484	AES	The AES Corporation	9.28B	13.05	-1.81%	12.28B
+485	HAS	Hasbro, Inc.	9.20B	65.98	-1.67%	4.32B
+486	HSIC	Henry Schein, Inc.	9.10B	73.00	0.70%	12.50B
+487	MKTX	MarketAxess Holdings Inc.	9.05B	239.93	-1.65%	811.94M
+488	GL	Globe Life Inc.	8.79B	104.76	-1.74%	5.73B
+489	TFX	Teleflex Incorporated	8.58B	184.65	-0.98%	3.03B
+490	MTCH	Match Group, Inc.	8.27B	32.93	1.04%	3.49B
+491	MHK	Mohawk Industries, Inc.	8.26B	130.92	-0.39%	10.81B
+492	MOS	The Mosaic Company	8.13B	25.58	-0.12%	11.46B
+493	IVZ	Invesco Ltd.	8.01B	17.83	-0.39%	5.89B
+494	CZR	Caesars Entertainment, Inc.	7.99B	37.60	-0.79%	11.27B
+495	APA	APA Corporation	7.92B	21.42	-1.92%	8.96B
+496	CE	Celanese Corporation	7.71B	70.54	1.58%	10.48B
+497	WBA	Walgreens Boots Alliance, Inc.	7.40B	8.56	1.06%	147.66B
+498	BWA	BorgWarner Inc.	7.39B	33.80	-0.56%	14.17B
+499	HII	Huntington Ingalls Industries, Inc.	7.35B	187.95	-0.49%	11.71B
+500	PARA	Paramount Global	7.33B	10.99	1.67%	28.87B
+501	FMC	FMC Corporation	7.06B	56.58	-1.07%	4.17B
+502	QRVO	Qorvo, Inc.	6.46B	68.33	-0.52%	3.95B
+503	AMTM	Amentum Holdings, Inc.	5.64B	23.17	0.74%	5.62B
