@@ -2,6 +2,8 @@ Author: Ethan Nanavati
 
 Last Edited: 1/9/2025
 
+
+
 This project proposes an optimal allocation of stocks in a portfolio and evaluates its performance. 
 
 The work builds on the work of Ledoit et al 2003 to reduce estimation error in the sample covariance matrix by way of a "Shrinkage" estimator that weights the sample covariance to a more structured target.
