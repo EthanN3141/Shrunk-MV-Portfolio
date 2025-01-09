@@ -13,8 +13,7 @@ The objective for the optimization is to maximize expected return subject to var
 The optimization problem is solved with and without shrinkage estimation, and the performance of these techniques is compared against a simple market average.
 
 
-####################################################FILES################################################################################
-
+#######################FILES#######################
 Shrunk MV Paper.pdf: Details the experiment, background, and results
 
 Shrunk_MV.ipynb: performs the experiments detailed in the paper
